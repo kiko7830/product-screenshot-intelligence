@@ -1,0 +1,4 @@
+interface:
+  display_name: "竞品截图洞察"
+  short_description: "Analyze competitors from screenshots"
+  default_prompt: "Use $competitor-screenshot-intelligence to analyze this competitor from a screenshot and explain the market trends, customer groups, strengths, weaknesses, and strategic role of the shown feature."

@@ -1,13 +1,13 @@
 ---
-name: product-screenshot-intelligence
-description: Identify products from screenshots and produce product-market intelligence. Use when the user provides or references a screenshot and asks what product it is, who uses it, its market situation, competitors, customer segments, strengths and weaknesses, feature purpose, roadmap priority, short-term and long-term strategic role, or why a shown feature should exist.
+name: competitor-screenshot-intelligence
+description: Analyze competitors from screenshots and produce full product-market intelligence. Use when the user provides or references a screenshot and asks what competing product it is, market trends, competitor situation, target customers, customer segments, strengths and weaknesses, feature purpose, roadmap priority, short-term and long-term strategic role, or why the competitor may have built the shown feature.
 ---
 
-# Product Screenshot Intelligence
+# Competitor Screenshot Intelligence
 
 ## Overview
 
-Analyze screenshots as product evidence. Combine visual inspection, OCR clues, and current web research to identify the product, then explain the market, audience, strengths, weaknesses, and strategic role of the visible feature.
+Analyze screenshots as competitor evidence. Combine visual inspection, OCR clues, and current web research to identify the product, then explain market trends, customer groups, competitors, strengths, weaknesses, and the strategic role of the visible feature.
 
 Use `references/analysis-framework.md` when the request needs a full report, competitive landscape, customer segmentation, or feature strategy assessment.
 

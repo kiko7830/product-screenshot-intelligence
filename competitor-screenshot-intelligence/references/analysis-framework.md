@@ -1,4 +1,4 @@
-# Product Screenshot Intelligence Framework
+# Competitor Screenshot Intelligence Framework
 
 ## Evidence Ladder
 
