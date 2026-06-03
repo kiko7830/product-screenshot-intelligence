@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Screenshot Intelligence"
+  short_description: "Identify products and analyze market context"
+  default_prompt: "Use $product-screenshot-intelligence to identify this product from a screenshot and explain the market, audience, strengths, weaknesses, and strategic role of the shown feature."
