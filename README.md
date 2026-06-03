@@ -1,6 +1,10 @@
 # 竞品截图洞察 / Competitor Screenshot Intelligence
 
-A Codex skill that turns competitor screenshots into product, market, customer, and feature strategy intelligence.
+![Competitor Screenshot Intelligence social preview](assets/social-preview.png)
+
+Upload a competitor screenshot. Get product identity, market trends, customer segments, strengths, weaknesses, and why the visible feature matters.
+
+**Competitor Screenshot Intelligence** is a Codex skill for designers, PMs, founders, and researchers who want to turn UI screenshots into structured competitor research.
 
 Use it when you have a screenshot from a competitor product and want to understand:
 
@@ -12,6 +16,24 @@ Use it when you have a screenshot from a competitor product and want to understa
 - What does the visible feature do?
 - Why might the competitor build this feature now?
 - What role does this feature play in short-term goals and long-term strategy?
+
+## Best For
+
+- Product designers doing competitor teardown and feature research.
+- PMs evaluating roadmap opportunities and market signals.
+- Founders studying adjacent products before making product decisions.
+- Researchers turning UI evidence into customer and market hypotheses.
+
+## Example Output
+
+The skill can produce:
+
+- Competitor identity and confidence level.
+- Screenshot evidence and external source links.
+- Market trends and category context.
+- Target customers, buyers, users, and use cases.
+- Strengths, weaknesses, moat, and risk.
+- Feature purpose, likely metrics, strategic priority, and why-now reasoning.
 
 ## Install
 
